@@ -1,4 +1,7 @@
-numpy
 pandas
-matplotlib
+numpy
+missingno
 seaborn
+matplotlib
+imbalanced-learn
+scikit-learn
